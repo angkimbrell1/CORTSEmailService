@@ -1,0 +1,6 @@
+C:\Users\Ang\source\repos\CORTSEmailService\CORTSEmailService\bin\Debug\CORTSEmailService.exe
+C:\Users\Ang\source\repos\CORTSEmailService\CORTSEmailService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ang\source\repos\CORTSEmailService\CORTSEmailService\bin\Debug\Corts.dll
+C:\Users\Ang\source\repos\CORTSEmailService\CORTSEmailService\bin\Debug\MongoDB.Bson.dll
+C:\Users\Ang\source\repos\CORTSEmailService\CORTSEmailService\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Ang\source\repos\CORTSEmailService\CORTSEmailService\bin\Debug\MongoDB.Driver.dll

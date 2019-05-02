@@ -1,0 +1,98 @@
+4/3/2019 7:57:14 PM: Service started
+4/3/2019 7:59:20 PM: Service stopped
+4/3/2019 7:59:54 PM: Service started
+4/3/2019 8:04:28 PM: Service stopped
+4/3/2019 8:05:13 PM: Service started
+4/3/2019 8:12:59 PM: Service stopped
+4/3/2019 8:14:38 PM: Service started
+4/3/2019 8:20:22 PM: Mail sent successfully!
+4/3/2019 8:35:12 PM: Service stopped
+4/3/2019 8:35:43 PM: Service started
+4/3/2019 8:38:22 PM: Mail sent successfully!
+4/3/2019 8:40:14 PM: Service stopped
+4/3/2019 9:05:15 PM: Service started
+4/3/2019 9:11:37 PM: Service stopped
+4/3/2019 9:13:30 PM: Service started
+4/3/2019 9:16:23 PM: Mail sent successfully!
+4/3/2019 9:19:05 PM: Service stopped
+4/3/2019 9:19:29 PM: Service started
+4/3/2019 9:22:23 PM: Mail sent successfully!
+4/3/2019 9:28:00 PM: Mail sent successfully!
+4/3/2019 9:28:43 PM: Service stopped
+4/3/2019 10:04:26 PM: Service started
+4/3/2019 10:06:10 PM: Service stopped
+4/3/2019 10:07:09 PM: Service started
+4/3/2019 10:10:04 PM: Service stopped
+4/3/2019 10:11:19 PM: Service started
+4/3/2019 10:13:40 PM: Service stopped
+4/3/2019 10:14:54 PM: Service started
+4/3/2019 10:18:50 PM: Service stopped
+4/3/2019 10:19:02 PM: Service started
+4/3/2019 10:20:29 PM: Mail sent successfully!
+4/3/2019 10:20:33 PM: Mail sent successfully!
+4/3/2019 10:20:36 PM: Mail sent successfully!
+4/3/2019 10:21:23 PM: Service stopped
+4/10/2019 7:28:56 PM: Service started
+4/14/2019 10:46:23 AM: Service stopped
+4/14/2019 10:53:27 AM: Service started
+4/14/2019 10:57:08 AM: Mail sent successfully!
+4/27/2019 11:17:27 AM: Service stopped
+4/27/2019 11:27:02 AM: Service started
+4/27/2019 11:33:14 AM: Mail sent successfully!
+4/27/2019 11:33:23 AM: Mail sent successfully!
+4/27/2019 11:33:26 AM: Mail sent successfully!
+4/27/2019 11:33:29 AM: Mail sent successfully!
+4/27/2019 11:33:32 AM: Mail sent successfully!
+4/27/2019 11:33:34 AM: Mail sent successfully!
+4/27/2019 11:33:39 AM: Mail sent successfully!
+4/27/2019 11:33:42 AM: Mail sent successfully!
+4/27/2019 11:33:44 AM: Mail sent successfully!
+4/27/2019 11:33:47 AM: Mail sent successfully!
+4/27/2019 11:33:50 AM: Mail sent successfully!
+4/27/2019 11:33:52 AM: Mail sent successfully!
+4/27/2019 11:33:54 AM: Mail sent successfully!
+4/27/2019 11:33:57 AM: Mail sent successfully!
+4/27/2019 11:34:00 AM: Mail sent successfully!
+4/27/2019 11:34:25 AM: Mail sent successfully!
+4/27/2019 11:34:33 AM: Service stopped
+4/27/2019 11:38:10 AM: Service started
+4/27/2019 11:40:06 AM: Mail sent successfully!
+4/27/2019 11:40:09 AM: Mail sent successfully!
+4/27/2019 11:40:11 AM: Mail sent successfully!
+4/27/2019 11:40:13 AM: Mail sent successfully!
+4/27/2019 11:52:09 AM: Service stopped
+4/27/2019 11:52:28 AM: Service started
+4/27/2019 11:55:09 AM: Mail sent successfully!
+4/27/2019 11:56:20 AM: Service stopped
+4/27/2019 11:57:39 AM: Service started
+4/27/2019 11:59:47 AM: Service stopped
+4/27/2019 12:00:14 PM: Service started
+4/27/2019 12:02:07 PM: Mail sent successfully!
+4/27/2019 12:02:12 PM: Mail sent successfully!
+4/27/2019 12:03:37 PM: Service stopped
+4/27/2019 12:04:36 PM: Service started
+4/27/2019 12:05:06 PM: Mail sent successfully!
+4/27/2019 12:05:09 PM: Mail sent successfully!
+4/27/2019 12:05:59 PM: Service stopped
+4/27/2019 12:06:27 PM: Service started
+4/27/2019 12:08:15 PM: Mail sent successfully!
+4/27/2019 12:08:19 PM: Mail sent successfully!
+4/27/2019 12:10:49 PM: Service stopped
+4/27/2019 12:11:16 PM: Service started
+4/27/2019 12:12:03 PM: Mail sent successfully!
+4/27/2019 12:12:04 PM: Mail sent successfully!
+4/27/2019 12:16:30 PM: Service stopped
+4/27/2019 12:16:50 PM: Service started
+4/27/2019 12:19:06 PM: Mail sent successfully!
+4/27/2019 12:19:09 PM: Mail sent successfully!
+4/27/2019 12:21:20 PM: Service stopped
+4/27/2019 12:22:29 PM: Service started
+4/27/2019 12:23:26 PM: Service stopped
+5/1/2019 9:41:36 AM: Service started
+5/1/2019 9:46:26 PM: Service stopped
+5/1/2019 9:47:39 PM: Service started
+5/1/2019 9:49:04 PM: Mail sent successfully!
+5/1/2019 9:49:05 PM: Mail sent successfully!
+5/1/2019 9:49:06 PM: Mail sent successfully!
+5/1/2019 9:49:08 PM: Mail sent successfully!
+5/1/2019 9:49:09 PM: Mail sent successfully!
